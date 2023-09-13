@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @salimqasemi
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on c# tasks and projeckts
+- 📫 How to reach me by email
